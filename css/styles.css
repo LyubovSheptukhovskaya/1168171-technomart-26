@@ -1,0 +1,83 @@
+body {
+  font-family: 'PT Sans', sans-serif;
+}
+header {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+header .description {
+  color: #EE3643;
+}
+
+.top {
+  background-color: #293449;
+  color: white;
+}
+.logo {
+  text-transform: uppercase;
+  background-color: #EE3643;
+  border-bottom: 4px #A63C43 solid;
+  padding: 10px 0;
+  text-align: center;
+  color: white;
+  width: 220px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 17pt;
+  display: inline-block;
+}
+.checkout {
+  background-color: #63A63E;
+  padding: 10px;
+}
+
+.fake-button {
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.fake-button.button-red {
+  text-align: center;
+  background-color: #EE3643;
+  color: white;
+  text-transform: uppercase;
+  padding: 10px 0;
+  border-radius: 3px;
+}
+
+footer .footer-top {
+  background-color: #32425C;
+}
+
+footer .footer-bottom {
+  background-color: #293449;
+}
+
+.content {
+  width: 1280px;
+  margin: auto;
+}
+
+.search {
+  display: inline-block;
+  width: 300px;
+}
+.bookmarks {
+  display: inline-block;
+  width: 200px;
+}
+
+.cart {
+  display: inline-block;
+  width: 200px;
+}
+.checkout {
+  display: inline-block;
+  padding: 15px 30px;
+}
+a .checkout {
+  color: white;
+}
+
+header .logo {
+  margin-bottom: -4px;
+  padding-bottom: 13px;
+}
